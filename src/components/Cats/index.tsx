@@ -95,7 +95,7 @@ export default function Cats() {
           />
           <Title className={classes.title}>Zura</Title>
           <Text className={classes.text}>
-            Zura is the youngest, and to be honest I didn't even expect to breed
+            Zura is the youngest, and to be honest I didn't even expect to have
             another cat after Kota. I ended up finding Zura very young in front
             of the house I rented while I was finishing graduation. He was
             surrounded by dogs and I ended up being scared of something
